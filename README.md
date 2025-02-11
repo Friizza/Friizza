@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on my portfolio: [https://edoardofrisenda.com/](https://edoardofrisenda.com/)
 
-- 📫 How to reach me **https://www.instagram.com/_frizza/**
+- 📫 How to reach me **https://www.linkedin.com/in/edoardo-delio-frisenda-675838319/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
