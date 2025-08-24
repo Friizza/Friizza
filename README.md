@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edoardo Delio Frisenda</h1>
 <h3 align="center">An Aerospace Engineering student at Polimi</h3>
 
-- 🌱 I’m currently learning **game development!**
-
 - 👨‍💻 All of my projects are available on my portfolio: [https://edoardofrisenda.com/](https://edoardofrisenda.com/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/edoardo-delio-frisenda-675838319/**
