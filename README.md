@@ -23,8 +23,7 @@ _Studying things that fly at Politecnico di Milano. Occasionally making things t
 Not skills exactly. More like personality traits that happen to be useful sometimes.
 
 - **Primary occupation:** Computing things that could just be vibes, but I run the numbers anyway.
-- **Side quest:** Making video games. They are not critically acclaimed.
-- **Known weakness:** Problems that fight back. I find them charming.
+- **Side quest:** Assembling small video games. They are small.
 
 <br/>
 
