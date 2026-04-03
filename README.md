@@ -43,6 +43,7 @@ Not skills exactly. More like personality traits that happen to be useful someti
 
 | | Project | What it is | Link |
 |:---:|:---|:---|:---:|
+| ✈️ | **AirSim2D** | Fly a plane. Crash a plane. Repeat until humbled. | [![Repo](https://img.shields.io/badge/Repo-4338CA?style=flat-square&logo=github&logoColor=white)](https://github.com/Friizza/AirSim2D) |
 | 🍸  | **Mixify**         | AI tells you what to drink. It is usually right. · _w/ [![Bellorocks](https://img.shields.io/badge/Bellorocks-4338CA?style=flat-square&logo=github&logoColor=white)](https://github.com/Bellorocks)_ | [![App Store](https://img.shields.io/badge/App_Store-4F46E5?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/it/app/mixify-cocktails/id6754533598) |
 | 🧙 | **Spellbound RPG** | Spellcasting RPG with enemies that actually think. Rude. | [![Itch.io](https://img.shields.io/badge/Play-4F46E5?style=flat-square&logo=itchdotio&logoColor=white)](https://friizza.itch.io/spellbound-rpg) |
 | 🧟 | **Zombits** | Zombie survival. The zombies get smarter. You don't. | [![Itch.io](https://img.shields.io/badge/Play-4F46E5?style=flat-square&logo=itchdotio&logoColor=white)](https://friizza.itch.io/zombits) |
